@@ -1,3 +1,4 @@
+ HEAD
 Doubt Resolver AI
 Project Overview
 Doubt Resolver AI is an AI-powered chatbot designed to summarize long explanations into short, easy-to-grasp points. The system ensures users receive concise and clear answers, improving comprehension and learning efficiency.
@@ -31,3 +32,6 @@ Future Enhancements
 Conclusion
 The Doubt Resolver AI aims to simplify knowledge acquisition by condensing long explanations into easy-to-understand points. With an AI-driven approach, this chatbot will serve as a valuable tool for students and professionals alike.
 
+
+# Doubt-resolver-AI
+Doubt Resolver AI is an AI-powered chatbot designed to summarize long explanations into short, easy-to-grasp points. The system ensures users receive concise and clear answers, improving comprehension and learning efficiency350051643b510368ace5a2529b00e3363f342681
